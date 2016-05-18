@@ -1,2 +1,3 @@
-# hello-world
-Sample repository.
+This is the sample of the readme file.
+
+For tutorial purposes.
